@@ -24,7 +24,7 @@ header nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 80vw;
+    width: 76.8rem;
 }
 
 .extra{
@@ -84,19 +84,18 @@ nav div ul li{
 
 .location{
     background-color: black;
-    height: 110vh;
+    height: 50.27rem;
     display: flex;
     color: white;
     justify-content: center;
     align-items: center;
-    width: 100vw;
 }
 
 .location .location-content{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 70vw;
+    width: 67.2rem;
 }
 
 .go-anywhere{
@@ -106,23 +105,23 @@ nav div ul li{
 .heading{
     font-size: 3.1em;
     font-weight: 700;
-    line-height: 64px;
+    line-height: 4rem;
 }
 
 .loc{
     background-color: #f2f3f2;
-    width: 26vw;
-    height: 7vh;
+    width: 24.9589rem;
+    height: 3.199rem;
     border-radius: 11px;
     display: inline-flex;
     align-items: center;
 }
 
 .text1{
-    margin: 0 0 0 2vw;
-    width: 20vw;
-    height: 4vh;
-    font-size: 1.1em;
+    margin: 0 0 0 1.919791rem;
+    width: 19.2rem;
+    height: 1.827rem;
+    font-size: 1.1rem;
     border: none;
     background-color: #f2f3f2;
 }
@@ -133,7 +132,7 @@ nav div ul li{
 
 .move1{
     position: relative;
-    left: 1.5em;
+    left: 1.5rem;
 }
 
 .padding{
@@ -142,8 +141,8 @@ nav div ul li{
 
 .des{
     background-color: #f2f3f2;
-    width: 26vw;
-    height: 7vh;
+    width: 24.9589rem;
+    height: 3.199rem;
     border-radius: 11px;
     display: inline-flex;
     align-items: center;
@@ -154,10 +153,10 @@ nav div ul li{
 }
 
 .text2{
-    margin: 0 0 0 2vw;
-    width: 22vw;
-    height: 4vh;
-    font-size: 1.1em;
+    margin: 0 0 0 1.919791rem;
+    width: 21.12rem;
+    height: 1.827rem;
+    font-size: 1.1rem;
     border: none;
     background-color: #f2f3f2;
 }
@@ -168,13 +167,13 @@ nav div ul li{
 
 .move2{
     position: relative;
-    left: 1.5em;
+    left: 1.5rem;
 }
 
 .prices{
     background-color: #f2f3f2;
-    width: 9vw;
-    height: 7vh;
+    width: 8.64rem;
+    height: 3.199rem;
     border-radius: 11px;
     display: inline-flex;
     align-items: center;
@@ -183,14 +182,14 @@ nav div ul li{
     font-weight: 500;
 }
 
-.move3{
+/* .move3{
     position: absolute;
-    top: 30.8em;
-    left: 9.9em;
-}
+    top: 30.8rem;
+    left: 9.9rem;
+} */
 
 .photo1{
-    height: 43em;
+    height: 43rem;
     padding: 0 0 0 50px;
 }
 
@@ -202,15 +201,15 @@ nav div ul li{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 11em;
+    padding: 0 11rem;
 }
 
 .drive-whole{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100vw;
-    height: 90vh;
+    width: 96rem;
+    height: 41.129rem;
     padding: 0px;
 }
 
@@ -218,21 +217,21 @@ nav div ul li{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 35em;
+    height: 35rem;
 }
 
 .drive-content{
-    padding: 0 0 0 7em;
+    padding: 0 0 0 7rem;
 }
 
 .drive-content h2{
-    font-size: 3.1em;
+    font-size: 3.1rem;
     font-weight: 700;
-    line-height: 64px;
+    line-height: 4rem;
 }
 
 .drive-content p{
-    font-size: 1.01em;
+    font-size: 1.01rem;
 }
 
 .drive-content figure{
@@ -242,8 +241,8 @@ nav div ul li{
 .get-started{
     background-color: black;
     color: white;
-    height: 3em;
-    width: 8em;
+    height: 3rem;
+    width: 8rem;
     border-radius: 7px;
     display: inline-flex;
     justify-content: center;
@@ -253,7 +252,7 @@ nav div ul li{
 
 .bar{
     display: inline-block;
-    margin: 0 0 0 1.5em;
+    margin: 0 0 0 1.5rem;
     text-decoration: underline;
     text-underline-offset: 9px;
     text-decoration-color: lightgray;
@@ -263,15 +262,15 @@ nav div ul li{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 11em;
+    padding: 0 11rem;
 }
 
 .business-whole{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100vw;
-    height: 90vh;
+    width: 96rem;
+    height: 41.129rem;
     padding: 0px;
 }
 
@@ -279,22 +278,22 @@ nav div ul li{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 35em;
+    height: 35rem;
 }
 
 .business-content{
-    padding: 0 7em 0 0;
+    padding: 0 7rem 0 0;
 }
 
 .business-content h2{
-    font-size: 3.1em;
+    font-size: 3.1rem;
     font-weight: 700;
-    line-height: 64px;
-    padding: 0 1em 0 0;
+    line-height: 4rem;
+    padding: 0 1rem 0 0;
 }
 
 .business-content p{
-    font-size: 1.01em;
+    font-size: 1.01rem;
 }
 
 .business-content figure{
@@ -304,8 +303,8 @@ nav div ul li{
 .get-started{
     background-color: black;
     color: white;
-    height: 3em;
-    width: 8em;
+    height: 3rem;
+    width: 8rem;
     border-radius: 7px;
     display: inline-flex;
     justify-content: center;
@@ -315,7 +314,7 @@ nav div ul li{
 
 .bar{
     display: inline-block;
-    margin: 0 0 0 1.5em;
+    margin: 0 0 0 1.5rem;
     text-decoration: underline;
     text-underline-offset: 9px;
     text-decoration-color: lightgray;
@@ -325,37 +324,36 @@ nav div ul li{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 11em;
+    padding: 0 11rem;
 }
 
 .money-whole{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100vw;
-    height: 90vh;
-    padding: 0px;
+    width: 96rem;
+    height: 41.129rem;
 }
 
 .money-image{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 35em;
+    height: 35rem;
 }
 
 .money-content{
-    padding: 0 0 0 7em;
+    padding: 0 0 0 7rem;
 }
 
 .money-content h2{
-    font-size: 2.1em;
+    font-size: 2.1rem;
     font-weight: 700;
-    line-height: 44px;
+    line-height: 2.75rem;
 }
 
 .money-content p{
-    font-size: 1.01em;
+    font-size: 1.01rem;
 }
 
 .money-content figure{
@@ -365,8 +363,8 @@ nav div ul li{
 .get-started{
     background-color: black;
     color: white;
-    height: 3em;
-    width: 8em;
+    height: 3rem;
+    width: 8rem;
     border-radius: 7px;
     display: inline-flex;
     justify-content: center;
@@ -377,45 +375,44 @@ nav div ul li{
 .qr-codes{
     background-color: #f6f7f7;
     color: black;
-    width: 100vw;
-    height: 60vh;
+    height: 27.42rem;
 }
 
 .qr-codes-whole{
     display: block;
-    padding: 4em;
+    padding: 4rem;
 }
 
 .qr-codes h2{
-    font-size: 2.1em;
+    font-size: 2.1rem;
     font-weight: 700;
-    line-height: 44px;
-    padding: 0 3.4em 1.5em 3.4em;
+    line-height: 2.75rem;
+    padding: 0 3.4rem 1.5rem 7.1rem;
 }
 
 .app-qr{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 7.1em;
+    padding: 0 7.1rem;
 }
 
 .gen{
     background-color: white;
-    height: 30vh;
-    width: 565px;
+    height: 13.709rem;
+    width: 35.312rem;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
 
 .gen-1{
-    height: 10em;
+    height: 10rem;
 }
 
 .gen-2{
-    height: 1.8em;
-    padding-left: 1em;
+    height: 1.8rem;
+    padding-left: 1rem;
 }
 
 .gen-content h3{
@@ -426,13 +423,114 @@ nav div ul li{
 
 .apple{
     background-color: white;
-    height: 30vh;
-    width: 565px;
+    height: 13.709rem;
+    width: 35.312rem;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
 
 .apple-1{
-    height: 10em;
+    height: 10rem;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+.end{
+    padding: 6rem 4rem 4rem 4rem;
+}
+
+.top{
+    padding: 0 7rem;
+}
+
+.top figure img{
+    height: 1.2rem;
+}
+
+.mid{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -6.6rem;
+}
+
+.mid ul{
+    list-style-type: none;
+    line-height: 2rem
+}
+
+.other-li{
+    font-weight: 400;
+    font-size: 0.875rem;
+}
+
+.size{
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1.7rem;
+}
+
+.link img{
+    padding-left: 5rem;
+}
+
+.link-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 10rem;
+}
+
+.link-2 div{
+    padding: 0 1rem;
+}
+
+.down-links{
+    margin-left: 6.2rem;
+}
+
+.app-position{
+    position: relative;
+    bottom: 8px;
+}
+
+.copy{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: smaller;
+}
+
+.copy-1{
+    color: #aeaeaf;
+    margin-left: 6.5rem;
+}
+
+.copy-2 ul{
+    color: #aeaeaf;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-right: 7rem;
+}
+
+.copy-2 ul li{
+    list-style-type: none;
+    padding: 1rem;
 }
